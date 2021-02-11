@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Nishchay Verma, a software developer that is currently working in NTTData, Noida - India as a Software Development Senior Associate.
+I am Nishchay Verma, a software developer that is currently working in Infosys, Pune - India as an Associate Consultant.
 
 I'm a also a self-proclaimed Poet, a budding youtuber, Graphic Designer and Oracle Certified Associate( Java SE 8 Programmer - 1Z0-808). I have hands-on experience in Angular, Java, Python and Image-Processing.
 
